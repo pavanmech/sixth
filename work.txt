@@ -1,2 +1,3 @@
 "welcome to the work.txt"
 hope every thing is gng well
+will finish off git session soon
